@@ -35,3 +35,33 @@
     background-image: linear-gradient(to right, #3434bd 10%, blue 100%);
     border-radius: 10px;
 }
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightslategray;
+    border-radius: 10px;
+}
+#contactus{
+    height: 300px;
+}
+#contactus h6{
+    color: gray;
+}
+#contactus h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+footer{
+    text-align: center;
+}
+input{
+    border-radius: 5px;
+}
+#contactus:hover{
+    transition-property: inherit;
+    box-shadow: 10px 10px 5px grey;
+}
